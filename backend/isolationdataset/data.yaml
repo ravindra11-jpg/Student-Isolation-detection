@@ -1,0 +1,13 @@
+train: /Users/ravindrasaravanan/Documents/projects/python/Studentanalysis/isolationdataset/train
+val: /Users/ravindrasaravanan/Documents/projects/python/Studentanalysis/isolationdataset/valid
+test: ../test/images
+
+nc: 2
+names: ['Isolated', 'socializing']
+
+roboflow:
+  workspace: student-and-student-social-status-detection
+  project: isolation-detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/student-and-student-social-status-detection/isolation-detection/dataset/1

@@ -1,0 +1,47 @@
+timestamp,student,status,flagged
+
+
+2025-05-09 13:10:32,ravindra,normal,no
+2025-05-09 13:10:37,ravindra,normal,no
+2025-05-09 13:10:42,ravindra,isolated,no
+2025-05-09 13:10:42,darshan,isolated,no
+2025-05-09 13:10:42,kshitij,normal,no
+2025-05-09 13:10:48,ravindra,normal,no
+2025-05-09 13:10:48,darshan,normal,no
+2025-05-09 13:10:48,kshitij,normal,yes
+2025-05-09 13:10:53,ravindra,normal,no
+2025-05-09 13:10:53,darshan,normal,no
+2025-05-09 13:10:53,kshitij,normal,yes
+2025-05-09 13:10:58,ravindra,normal,no
+2025-05-09 13:10:58,darshan,normal,no
+2025-05-09 13:10:58,kshitij,normal,yes
+2025-05-09 13:11:03,ravindra,normal,no
+2025-05-09 13:11:03,darshan,normal,no
+2025-05-09 13:11:03,kshitij,normal,yes
+2025-05-09 13:11:08,ravindra,isolated,yes
+2025-05-09 13:11:08,darshan,normal,no
+2025-05-09 13:11:08,kshitij,isolated,yes
+2025-05-09 13:11:13,ravindra,isolated,yes
+2025-05-09 13:11:13,darshan,normal,no
+2025-05-09 13:11:13,kshitij,isolated,yes
+2025-05-09 13:11:18,ravindra,isolated,yes
+2025-05-09 13:11:18,darshan,normal,no
+2025-05-09 13:11:18,kshitij,isolated,yes
+2025-05-09 13:11:23,ravindra,isolated,yes
+2025-05-09 13:11:23,darshan,normal,no
+2025-05-09 13:11:23,kshitij,isolated,yes
+2025-05-09 13:11:28,ravindra,isolated,yes
+2025-05-09 13:11:28,darshan,normal,no
+2025-05-09 13:11:28,kshitij,isolated,yes
+2025-05-09 13:11:34,ravindra,isolated,yes
+2025-05-09 13:11:34,darshan,normal,no
+2025-05-09 13:11:34,kshitij,isolated,yes
+2025-05-09 13:11:39,ravindra,isolated,yes
+2025-05-09 13:11:39,darshan,normal,no
+2025-05-09 13:11:39,kshitij,isolated,yes
+2025-05-09 13:11:44,ravindra,isolated,yes
+2025-05-09 13:11:44,darshan,normal,no
+2025-05-09 13:11:44,kshitij,normal,yes
+2025-05-09 13:11:49,ravindra,isolated,yes
+2025-05-09 13:11:49,darshan,normal,no
+2025-05-09 13:11:49,kshitij,normal,yes

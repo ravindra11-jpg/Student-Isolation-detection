@@ -1,0 +1,13 @@
+train: /Users/ravindrasaravanan/Documents/projects/python/Studentanalysis/student_detection.v4i.yolov8/train/images
+val: /Users/ravindrasaravanan/Documents/projects/python/Studentanalysis/student_detection.v4i.yolov8/valid/images
+test: ../test/images
+
+nc: 4
+names: ['darshan', 'kshitij', 'ravindra', 'sai']
+
+roboflow:
+  workspace: student-and-student-social-status-detection
+  project: student_detection
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/student-and-student-social-status-detection/student_detection/dataset/4
