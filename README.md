@@ -9,7 +9,7 @@ The repository contains two main applications:
 
 ## Features
 
-- Detects four named students: `darshan`, `kshitij`, `ravindra`, and `sai`
+- Detects student classes under Record
 - Detects two social-context classes: `Isolated` and `socializing`
 - Streams annotated webcam frames from a Flask endpoint
 - Calculates isolation statistics every five seconds
